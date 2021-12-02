@@ -1,6 +1,6 @@
 ### Helo there
 
-não sei o que botar aqui
+não sei o que botar aqui.
 
 ### About me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-bonatto-b48520207/)](https://www.linkedin.com/in/gabriel-bonatto-b48520207/)
